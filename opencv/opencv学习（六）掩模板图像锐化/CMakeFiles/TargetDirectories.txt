@@ -1,0 +1,3 @@
+/home/keith/program/opencv/opencv学习（六）掩模板图像锐化/CMakeFiles/edit_cache.dir
+/home/keith/program/opencv/opencv学习（六）掩模板图像锐化/CMakeFiles/rebuild_cache.dir
+/home/keith/program/opencv/opencv学习（六）掩模板图像锐化/CMakeFiles/filter2D.dir
