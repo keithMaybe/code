@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 2.8)
+project(pixel)
+find_package(OpenCV REQUIRED)
+add_executable(pixel pixel.cpp)
+target_link_libraries(pixel ${OpenCV_LIBS})

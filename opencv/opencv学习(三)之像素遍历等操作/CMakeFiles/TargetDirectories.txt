@@ -1,0 +1,3 @@
+/home/keith/program/opencv/opencv学习(三)之像素遍历等操作/CMakeFiles/edit_cache.dir
+/home/keith/program/opencv/opencv学习(三)之像素遍历等操作/CMakeFiles/rebuild_cache.dir
+/home/keith/program/opencv/opencv学习(三)之像素遍历等操作/CMakeFiles/pixel.dir
