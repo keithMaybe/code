@@ -1,0 +1,3 @@
+/home/keith/program/opencv/opencv学习(三十)之设计线性滤波器filter2D/CMakeFiles/edit_cache.dir
+/home/keith/program/opencv/opencv学习(三十)之设计线性滤波器filter2D/CMakeFiles/rebuild_cache.dir
+/home/keith/program/opencv/opencv学习(三十)之设计线性滤波器filter2D/CMakeFiles/filter2D.dir

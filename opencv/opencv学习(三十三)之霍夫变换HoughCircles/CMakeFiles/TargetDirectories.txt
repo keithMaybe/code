@@ -1,0 +1,3 @@
+/home/keith/program/opencv/opencv学习(三十三)之霍夫变换HoughCircles/CMakeFiles/edit_cache.dir
+/home/keith/program/opencv/opencv学习(三十三)之霍夫变换HoughCircles/CMakeFiles/rebuild_cache.dir
+/home/keith/program/opencv/opencv学习(三十三)之霍夫变换HoughCircles/CMakeFiles/houghcircles.dir

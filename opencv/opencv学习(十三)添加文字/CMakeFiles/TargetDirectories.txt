@@ -1,0 +1,3 @@
+/home/keith/program/opencv/opencv学习(十三)添加文字/CMakeFiles/edit_cache.dir
+/home/keith/program/opencv/opencv学习(十三)添加文字/CMakeFiles/rebuild_cache.dir
+/home/keith/program/opencv/opencv学习(十三)添加文字/CMakeFiles/text.dir

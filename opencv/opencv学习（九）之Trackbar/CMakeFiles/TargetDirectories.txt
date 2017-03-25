@@ -1,0 +1,3 @@
+/home/keith/program/opencv/opencv学习（九）之Trackbar/CMakeFiles/edit_cache.dir
+/home/keith/program/opencv/opencv学习（九）之Trackbar/CMakeFiles/rebuild_cache.dir
+/home/keith/program/opencv/opencv学习（九）之Trackbar/CMakeFiles/trackbar.dir

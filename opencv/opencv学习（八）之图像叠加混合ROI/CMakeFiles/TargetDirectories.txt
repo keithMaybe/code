@@ -1,0 +1,3 @@
+/home/keith/gitHub/opencv/opencv学习（八）之图像叠加混合ROI/CMakeFiles/edit_cache.dir
+/home/keith/gitHub/opencv/opencv学习（八）之图像叠加混合ROI/CMakeFiles/rebuild_cache.dir
+/home/keith/gitHub/opencv/opencv学习（八）之图像叠加混合ROI/CMakeFiles/ROI.dir

@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<iterationNr>100</iterationNr>
+<strings>
+  image1.jpg Awesomeness baboon.jpg</strings>
+<Mapping>
+  <One>1</One>
+  <Two>2</Two></Mapping>
+<R type_id="opencv-matrix">
+  <rows>3</rows>
+  <cols>3</cols>
+  <dt>u</dt>
+  <data>
+    1 0 0 0 1 0 0 0 1</data></R>
+<T type_id="opencv-matrix">
+  <rows>3</rows>
+  <cols>1</cols>
+  <dt>d</dt>
+  <data>
+    0. 0. 0.</data></T>
+<MyData type_id=" ">
+  <A>97</A>
+  <X>3.1415926535897931e+00</X>
+  <id>mydata1234</id></MyData>
+</opencv_storage>

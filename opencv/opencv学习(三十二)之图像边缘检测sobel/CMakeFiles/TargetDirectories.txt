@@ -1,0 +1,3 @@
+/home/keith/program/opencv/opencv学习(三十二)之图像边缘检测sobel/CMakeFiles/edit_cache.dir
+/home/keith/program/opencv/opencv学习(三十二)之图像边缘检测sobel/CMakeFiles/rebuild_cache.dir
+/home/keith/program/opencv/opencv学习(三十二)之图像边缘检测sobel/CMakeFiles/sobel.dir

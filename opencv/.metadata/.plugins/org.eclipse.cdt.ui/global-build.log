@@ -1,0 +1,202 @@
+23:09:50 **** Build of configuration Debug for project EclipseTest ****
+make all 
+make: Nothing to be done for 'all'.
+23:11:27 **** Incremental Build of configuration Debug for project EclipseTest ****
+make all 
+make: Nothing to be done for 'all'.
+23:12:09 **** Incremental Build of configuration Debug for project EclipseTest ****
+make all 
+make: Nothing to be done for 'all'.
+23:12:34 **** Incremental Build of configuration Debug for project EclipseTest ****
+make all 
+make: Nothing to be done for 'all'.
+23:14:16 **** Incremental Build of configuration Debug for project EclipseTest ****
+make all 
+make: Nothing to be done for 'all'.
+23:14:25 **** Incremental Build of configuration Debug for project EclipseTest ****
+make all 
+make: Nothing to be done for 'all'.
+23:16:31 **** Incremental Build of configuration Debug for project EclipseTest ****
+make all 
+make: Nothing to be done for 'all'.
+23:25:03 **** Incremental Build of configuration Debug for project EclipseTest ****
+make all 
+make: Nothing to be done for 'all'.
+23:27:42 **** Incremental Build of configuration Debug for project EclipseTest ****
+make all 
+make: Nothing to be done for 'all'.
+23:30:44 **** Incremental Build of configuration Debug for project EclipseTest ****
+make all 
+make: Nothing to be done for 'all'.
+23:42:30 **** Incremental Build of configuration Debug for project EclipseTest ****
+make all 
+make: Nothing to be done for 'all'.
+23:42:31 **** Build of configuration Debug for project test ****
+make all 
+Building file: ../src/main.cpp
+Invoking: GCC C++ Compiler
+g++ -I/usr/local/include/opencv -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.cpp"
+Finished building: ../src/main.cpp
+ 
+Building target: test
+Invoking: GCC C++ Linker
+g++ -L/usr/local/lib -o "test"  ./src/main.o   -lopencv_core\ opencv_imgproc\ opencv_highgui\ opencv_ml\ opencv_video\ opencv_features2d\ opencv_calib3d\ opencv_objdetect\ opencv_contrib\ opencv_legacy\ opencv_flann
+/usr/bin/ld: 找不到 -lopencv_core opencv_imgproc opencv_highgui opencv_ml opencv_video opencv_features2d opencv_calib3d opencv_objdetect opencv_contrib opencv_legacy opencv_flann
+makefile:45: recipe for target 'test' failed
+collect2: error: ld returned 1 exit status
+make: *** [test] Error 1
+23:45:37 **** Incremental Build of configuration Debug for project EclipseTest ****
+make all 
+make: Nothing to be done for 'all'.
+23:45:37 **** Incremental Build of configuration Debug for project test ****
+make all 
+Building target: test
+Invoking: GCC C++ Linker
+g++ -L/usr/local/lib -o "test"  ./src/main.o   -lopencv_core\ opencv_imgproc\ opencv_highgui\ opencv_ml\ opencv_video\ opencv_features2d\ opencv_calib3d\ opencv_objdetect\ opencv_contrib\ opencv_legacy\ opencv_flann
+/usr/bin/ld: 找不到 -lopencv_core opencv_imgproc opencv_highgui opencv_ml opencv_video opencv_features2d opencv_calib3d opencv_objdetect opencv_contrib opencv_legacy opencv_flann
+makefile:45: recipe for target 'test' failed
+collect2: error: ld returned 1 exit status
+make: *** [test] Error 1
+23:45:50 **** Incremental Build of configuration Debug for project EclipseTest ****
+make all 
+make: Nothing to be done for 'all'.
+23:45:50 **** Incremental Build of configuration Debug for project test ****
+make all 
+Building target: test
+Invoking: GCC C++ Linker
+g++ -L/usr/local/lib -o "test"  ./src/main.o   -lopencv_core\ opencv_imgproc\ opencv_highgui\ opencv_ml\ opencv_video\ opencv_features2d\ opencv_calib3d\ opencv_objdetect\ opencv_contrib\ opencv_legacy\ opencv_flann
+/usr/bin/ld: 找不到 -lopencv_core opencv_imgproc opencv_highgui opencv_ml opencv_video opencv_features2d opencv_calib3d opencv_objdetect opencv_contrib opencv_legacy opencv_flann
+collect2: error: ld returned 1 exit status
+make: *** [test] Error 1
+makefile:45: recipe for target 'test' failed
+23:46:26 **** Incremental Build of configuration Debug for project EclipseTest ****
+make all 
+make: Nothing to be done for 'all'.
+23:46:26 **** Incremental Build of configuration Debug for project test ****
+make all 
+Building file: ../src/main.cpp
+Invoking: GCC C++ Compiler
+g++ -I/usr/local/include/opencv -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.cpp"
+../src/main.cpp: In function ‘int main()’:
+../src/main.cpp:15:34: error: ‘imread’ was not declared in this scope
+  Mat srcImage = imread("lena.jpg");
+                                  ^
+../src/main.cpp:16:27: error: ‘imshow’ was not declared in this scope
+  imshow("Eclipse",srcImage);
+                           ^
+../src/main.cpp:18:11: error: ‘waitKey’ was not declared in this scope
+  waitKey(0);
+           ^
+src/subdir.mk:18: recipe for target 'src/main.o' failed
+make: *** [src/main.o] Error 1
+23:46:38 **** Incremental Build of configuration Debug for project EclipseTest ****
+make all 
+make: Nothing to be done for 'all'.
+23:46:38 **** Incremental Build of configuration Debug for project test ****
+make all 
+Building file: ../src/main.cpp
+Invoking: GCC C++ Compiler
+g++ -I/usr/local/include/opencv -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.cpp"
+../src/main.cpp: In function ‘int main()’:
+../src/main.cpp:15:34: error: ‘imread’ was not declared in this scope
+  Mat srcImage = imread("lena.jpg");
+                                  ^
+../src/main.cpp:16:27: error: ‘imshow’ was not declared in this scope
+  imshow("Eclipse",srcImage);
+                           ^
+../src/main.cpp:18:11: error: ‘waitKey’ was not declared in this scope
+  waitKey(0);
+           ^
+make: *** [src/main.o] Error 1
+src/subdir.mk:18: recipe for target 'src/main.o' failed
+23:47:00 **** Incremental Build of configuration Debug for project EclipseTest ****
+make all 
+make: Nothing to be done for 'all'.
+23:47:00 **** Incremental Build of configuration Debug for project test ****
+make all 
+Building file: ../src/main.cpp
+Invoking: GCC C++ Compiler
+g++ -I/usr/local/include/opencv -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.cpp"
+../src/main.cpp: In function ‘int main()’:
+../src/main.cpp:15:34: error: ‘imread’ was not declared in this scope
+  Mat srcImage = imread("lena.jpg");
+                                  ^
+../src/main.cpp:16:27: error: ‘imshow’ was not declared in this scope
+  imshow("Eclipse",srcImage);
+                           ^
+../src/main.cpp:18:11: error: ‘waitKey’ was not declared in this scope
+  waitKey(0);
+           ^
+src/subdir.mk:18: recipe for target 'src/main.o' failed
+make: *** [src/main.o] Error 1
+23:47:18 **** Incremental Build of configuration Debug for project EclipseTest ****
+make all 
+make: Nothing to be done for 'all'.
+23:47:18 **** Incremental Build of configuration Debug for project test ****
+make all 
+Building file: ../src/main.cpp
+Invoking: GCC C++ Compiler
+g++ -I/usr/local/include/opencv -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.cpp"
+../src/main.cpp:8:22: fatal error: opencv.hpp: 没有那个文件或目录
+src/subdir.mk:18: recipe for target 'src/main.o' failed
+compilation terminated.
+make: *** [src/main.o] Error 1
+23:47:35 **** Incremental Build of configuration Debug for project EclipseTest ****
+make all 
+make: Nothing to be done for 'all'.
+23:47:36 **** Incremental Build of configuration Debug for project test ****
+make all 
+Building file: ../src/main.cpp
+Invoking: GCC C++ Compiler
+g++ -I/usr/local/include/opencv -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.cpp"
+../src/main.cpp:8:30: fatal error: opencv2\opencv.hpp: 没有那个文件或目录
+compilation terminated.
+src/subdir.mk:18: recipe for target 'src/main.o' failed
+make: *** [src/main.o] Error 1
+23:47:48 **** Incremental Build of configuration Debug for project EclipseTest ****
+make all 
+make: Nothing to be done for 'all'.
+23:47:48 **** Incremental Build of configuration Debug for project test ****
+make all 
+Building file: ../src/main.cpp
+Invoking: GCC C++ Compiler
+g++ -I/usr/local/include/opencv -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.cpp"
+Finished building: ../src/main.cpp
+ 
+Building target: test
+Invoking: GCC C++ Linker
+g++ -L/usr/local/lib -o "test"  ./src/main.o   -lopencv_core\ opencv_imgproc\ opencv_highgui\ opencv_ml\ opencv_video\ opencv_features2d\ opencv_calib3d\ opencv_objdetect\ opencv_contrib\ opencv_legacy\ opencv_flann
+/usr/bin/ld: 找不到 -lopencv_core opencv_imgproc opencv_highgui opencv_ml opencv_video opencv_features2d opencv_calib3d opencv_objdetect opencv_contrib opencv_legacy opencv_flann
+makefile:45: recipe for target 'test' failed
+collect2: error: ld returned 1 exit status
+make: *** [test] Error 1
+23:49:03 **** Incremental Build of configuration Debug for project EclipseTest ****
+make all 
+make: Nothing to be done for 'all'.
+23:49:04 **** Incremental Build of configuration Debug for project test ****
+make all 
+Building file: ../src/main.cpp
+Invoking: GCC C++ Compiler
+g++ -I/usr/local/include/opencv2 -I/usr/local/include/opencv -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.cpp"
+Finished building: ../src/main.cpp
+ 
+Building target: test
+Invoking: GCC C++ Linker
+g++ -L/usr/local/lib -o "test"  ./src/main.o   -lopencv_core\ opencv_imgproc\ opencv_highgui\ opencv_ml\ opencv_video\ opencv_features2d\ opencv_calib3d\ opencv_objdetect\ opencv_contrib\ opencv_legacy\ opencv_flann
+/usr/bin/ld: 找不到 -lopencv_core opencv_imgproc opencv_highgui opencv_ml opencv_video opencv_features2d opencv_calib3d opencv_objdetect opencv_contrib opencv_legacy opencv_flann
+collect2: error: ld returned 1 exit status
+makefile:45: recipe for target 'test' failed
+make: *** [test] Error 1
+22:01:44 **** Build of configuration Debug for project EclipseTest ****
+make all 
+make: Nothing to be done for 'all'.
+22:02:22 **** Incremental Build of configuration Debug for project EclipseTest ****
+make all 
+make: Nothing to be done for 'all'.
+22:02:53 **** Clean-only build of configuration Debug for project EclipseTest ****
+make clean 
+rm -rf  ./EclipseTest/test.o  ./EclipseTest/test.d  EclipseTest
+ 
+22:02:57 **** Build of configuration Debug for project EclipseTest ****
+make all 
+make: Nothing to be done for 'all'.

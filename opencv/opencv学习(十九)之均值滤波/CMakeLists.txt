@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 2.8)
+project(blur)
+find_package(OpenCV REQUIRED)
+add_executable(blur blur.cpp)
+target_link_libraries(blur ${OpenCV_LIBS})

@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 2.8)
+project(xml)
+find_package(OpenCV REQUIRED)
+add_executable(xml xml.cpp)
+target_link_libraries(xml ${OpenCV_LIBS})

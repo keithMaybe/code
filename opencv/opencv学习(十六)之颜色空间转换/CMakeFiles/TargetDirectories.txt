@@ -1,0 +1,3 @@
+/home/keith/program/opencv/opencv学习(十六)之颜色空间转换/CMakeFiles/edit_cache.dir
+/home/keith/program/opencv/opencv学习(十六)之颜色空间转换/CMakeFiles/rebuild_cache.dir
+/home/keith/program/opencv/opencv学习(十六)之颜色空间转换/CMakeFiles/cvtColor.dir

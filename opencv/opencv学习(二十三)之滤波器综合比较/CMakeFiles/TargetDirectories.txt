@@ -1,0 +1,3 @@
+/home/keith/program/opencv/opencv学习(二十三)之滤波器综合比较/CMakeFiles/edit_cache.dir
+/home/keith/program/opencv/opencv学习(二十三)之滤波器综合比较/CMakeFiles/rebuild_cache.dir
+/home/keith/program/opencv/opencv学习(二十三)之滤波器综合比较/CMakeFiles/filter.dir

@@ -1,0 +1,3 @@
+/home/keith/program/opencv/opencv学习(十七)之XML和YAML/CMakeFiles/edit_cache.dir
+/home/keith/program/opencv/opencv学习(十七)之XML和YAML/CMakeFiles/rebuild_cache.dir
+/home/keith/program/opencv/opencv学习(十七)之XML和YAML/CMakeFiles/xml.dir

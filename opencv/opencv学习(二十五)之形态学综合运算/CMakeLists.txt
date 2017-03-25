@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 2.8)
+project(morphologyEx)
+find_package(OpenCV REQUIRED)
+add_executable(morphologyEx morphologyEx.cpp)
+target_link_libraries(morphologyEx ${OpenCV_LIBS})

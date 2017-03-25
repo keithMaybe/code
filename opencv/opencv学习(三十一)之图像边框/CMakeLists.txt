@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 2.8)
+project(copyMakeBorder)
+find_package(OpenCV REQUIRED)
+add_executable(copyMakeBorder copyMakeBorder.cpp)
+target_link_libraries(copyMakeBorder ${OpenCV_LIBS})

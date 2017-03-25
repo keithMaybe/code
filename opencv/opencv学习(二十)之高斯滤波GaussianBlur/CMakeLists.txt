@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 2.8)
+project(gaussianBlur)
+find_package(OpenCV REQUIRED)
+add_executable(gaussianBlur gaussianBlur.cpp)
+target_link_libraries(gaussianBlur ${OpenCV_LIBS})

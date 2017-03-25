@@ -1,0 +1,21 @@
+/*
+ * test.cpp
+ *
+ *  Created on: 2016年10月23日
+ *      Author: keith
+ */
+
+#include <iostream>
+#include <cv.h>
+#include <highgui.h>
+
+using namespace std;
+using namespace cv;
+
+int main()
+{
+	Mat srcImage=("lena.jpg");
+
+	return 0;
+}
+

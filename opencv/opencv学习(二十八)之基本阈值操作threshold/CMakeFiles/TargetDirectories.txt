@@ -1,0 +1,3 @@
+/home/keith/program/opencv/opencv学习(二十八)之基本阈值操作threshold/CMakeFiles/edit_cache.dir
+/home/keith/program/opencv/opencv学习(二十八)之基本阈值操作threshold/CMakeFiles/rebuild_cache.dir
+/home/keith/program/opencv/opencv学习(二十八)之基本阈值操作threshold/CMakeFiles/threshold.dir

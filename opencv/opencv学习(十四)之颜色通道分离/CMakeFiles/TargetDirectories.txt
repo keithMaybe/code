@@ -1,0 +1,3 @@
+/home/keith/program/opencv/opencv学习(十四)之颜色通道分离/CMakeFiles/edit_cache.dir
+/home/keith/program/opencv/opencv学习(十四)之颜色通道分离/CMakeFiles/rebuild_cache.dir
+/home/keith/program/opencv/opencv学习(十四)之颜色通道分离/CMakeFiles/split.dir

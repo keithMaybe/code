@@ -1,0 +1,17 @@
+23:49:04 **** Incremental Build of configuration Debug for project test ****
+make all 
+Building file: ../src/main.cpp
+Invoking: GCC C++ Compiler
+g++ -I/usr/local/include/opencv2 -I/usr/local/include/opencv -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.cpp"
+Finished building: ../src/main.cpp
+ 
+Building target: test
+Invoking: GCC C++ Linker
+g++ -L/usr/local/lib -o "test"  ./src/main.o   -lopencv_core\ opencv_imgproc\ opencv_highgui\ opencv_ml\ opencv_video\ opencv_features2d\ opencv_calib3d\ opencv_objdetect\ opencv_contrib\ opencv_legacy\ opencv_flann
+/usr/bin/ld: 找不到 -lopencv_core opencv_imgproc opencv_highgui opencv_ml opencv_video opencv_features2d opencv_calib3d opencv_objdetect opencv_contrib opencv_legacy opencv_flann
+collect2: error: ld returned 1 exit status
+makefile:45: recipe for target 'test' failed
+make: *** [test] Error 1
+
+23:49:05 Build Finished (took 1s.500ms)
+

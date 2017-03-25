@@ -1,0 +1,3 @@
+/home/keith/program/opencv/opencv学习(二十七)之图像缩放resize/CMakeFiles/edit_cache.dir
+/home/keith/program/opencv/opencv学习(二十七)之图像缩放resize/CMakeFiles/rebuild_cache.dir
+/home/keith/program/opencv/opencv学习(二十七)之图像缩放resize/CMakeFiles/resize.dir

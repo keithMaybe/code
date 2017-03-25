@@ -1,0 +1,3 @@
+/home/keith/program/opencv/opencv学习(十九)之均值滤波/CMakeFiles/edit_cache.dir
+/home/keith/program/opencv/opencv学习(十九)之均值滤波/CMakeFiles/rebuild_cache.dir
+/home/keith/program/opencv/opencv学习(十九)之均值滤波/CMakeFiles/blur.dir

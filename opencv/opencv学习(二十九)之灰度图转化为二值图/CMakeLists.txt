@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 2.8)
+project(adaptiveThreshold)
+find_package(OpenCV REQUIRED)
+add_executable(adaptiveThreshold adaptiveThreshold.cpp)
+target_link_libraries(adaptiveThreshold ${OpenCV_LIBS})
